@@ -1,0 +1,131 @@
+/* Configurções globais
+**********************************/
+html, body {
+    height: 100%;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #161616;
+}
+
+.main-background {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+.section-div {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.65);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.section-title {
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.section-text {
+    text-align: justify;
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.ancora {
+    position: absolute;
+    top: -76px;
+}
+
+/* Configurções Header
+**********************************/
+
+.main-header {
+    position: relative;
+}
+
+header video {
+    width: 100% ;
+    height: 100%;
+    object-fit: cover;
+}
+
+.header-video {
+    width: 100% ;
+    height: 100%;
+    object-fit: cover;
+}
+
+.header-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #3b3b3b;
+    z-index: 100;
+}
+
+.menu-nav {
+    padding: 0; 
+}
+.nav-list {
+    display: inline-block;
+    padding: 10px;
+}
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.nav-link:hover {
+    color: #0029d0;
+}
+
+.logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    max-width: 90%;
+}
+
+/* Configurções O lugar
+**********************************/
+
+.lugar {
+  background-image: url(/img/bar_interior.jpg);
+}
+
+/* Configurções Nossos Drinks
+**********************************/
+.nossos-drinks {
+    background-image: url(/img/drinks_background.jpg);
+}
+
+.drink-img{
+    max-width: 30%;
+    margin-top: -30px;
+}
+
+/* Configurções Footer
+**********************************/
+.main-footer {
+    position: relative;
+    padding: 10px;
+}
+
+.footer-section {
+    display: inline-block;
+    width: 32%;
+    min-width: 230px;
+    vertical-align: top;
+    font-size: 9px;
+
+}
