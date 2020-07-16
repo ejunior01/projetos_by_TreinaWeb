@@ -2,10 +2,6 @@
 &#128642Site Trem Na Web
 </h2>
 
-<p align="center">
-<img  alt="licença" src="https://img.shields.io/github/license/ejunior01/projetos_by_TreinaWeb" />
-<p/>
-
 ------
 
 ### Descrição do Projeto
