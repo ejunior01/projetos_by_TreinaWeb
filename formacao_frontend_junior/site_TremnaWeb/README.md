@@ -3,9 +3,7 @@
 </h2>
 
 <p align="center">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/ejunior01/Site_TremnaWeb">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/Site_TremnaWeb">
-<img  alt="licença" src="https://img.shields.io/github/license/ejunior01/Site_TremnaWeb" />
+<img  alt="licença" src="https://img.shields.io/github/license/ejunior01/projetos_by_TreinaWeb" />
 <p/>
 
 ------
@@ -31,7 +29,7 @@ Divisões do site:
 ------
 ### :computer: Layout do Site
 
-<img src="https://github.com/ejunior01/Site_TremnaWeb/blob/master/design/design_final.png?raw=true">
+<img src="https://github.com/ejunior01/projetos_by_TreinaWeb/blob/master/formacao_frontend_junior/site_TremnaWeb/design/design_final.png?raw=true">
 
 
 ### Status do Projeto: Concluído :heavy_check_mark:
@@ -43,6 +41,6 @@ Divisões do site:
 <p align="center">
 	Copyright (c) 2020 Edvan Ribeiro
     <br/>
-    Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/ejunior01/Site_TremnaWeb/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+    Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/ejunior01/projetos_by_TreinaWeb/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 </p>
 
