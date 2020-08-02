@@ -2,8 +2,6 @@
 &#128642Site Trem Na Web
 </h2>
 
-------
-
 ### Descrição do Projeto
 Projeto final do **Curso HTML5 e CSS3 - Desenvolvimento web Básico** realizado pela [TreinaWeb](https://www.treinaweb.com.br/).
 
