@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" alt="Logo Casa Criativa" src="./design/logo.svg" />
+    <img width="100%" src="./design/logo.svg" />
 </p>
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/projetos_by_TreinaWeb">
